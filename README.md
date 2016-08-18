@@ -1,2 +1,2 @@
 # heavenly-blue
-Drupal 8 production theme for jonathandilworth.com
+Drupal 8 production theme for Jonathan Dilworth.
